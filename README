@@ -1,0 +1,9 @@
+This is my first github test project.
+The aim of this project is just to have a quick example of
+how to build python packages in c++.
+
+instructions:
+
+run make
+run ./test.py
+
